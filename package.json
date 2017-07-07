@@ -1,0 +1,25 @@
+{
+  "name": "dublin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bot": "^0.0.3",
+    "botbuilder": "^3.8.4",
+    "restify": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kroshwan/dublinbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kroshwan/dublinbot/issues"
+  },
+  "homepage": "https://github.com/Kroshwan/dublinbot#readme"
+}
